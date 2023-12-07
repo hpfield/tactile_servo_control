@@ -12,7 +12,8 @@ CIRCLE_MASK_RADIUS = {
     "abb_tactip":   140,
     "cr_tactip":    210,
     "mg400_tactip": None,
-    "sim_tactip":   (12, 12, 240, 240)
+    # "sim_tactip":   (12, 12, 240, 240)
+    "sim_tactip":   240
 }
 THRESH = {
     "abb_tactip":   [61, 5],
