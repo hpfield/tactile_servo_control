@@ -2,6 +2,8 @@ import os
 import numpy as np
 
 from tactile_image_processing.utils import save_json_obj
+from cri.transforms import transform_euler
+
 
 
 def setup_control_params(task, save_dir=None):
